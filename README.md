@@ -6,6 +6,7 @@ In this analysis, we are looking at an exemplar of a successful bike-sharing mod
 
 ### Purpose
 
+
 Show the viability of a bike-sharing business and answer questions about:
 
 * What we can expect in terms of rides - get enough bikes
